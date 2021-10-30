@@ -1,0 +1,32 @@
+.about_img{
+    width: 70%;
+    float: right;
+}
+.main_div{
+    padding-top: 5rem;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-bottom: 5rem;
+    background-color: #e0e0e0;
+  
+}
+.intrigd_heading{
+    margin-bottom: 2rem;
+}
+.about_content{
+    margin-left: 1rem;
+    line-height: 3;
+}
+.download_text{
+    font-weight: 100;
+}
+.download{
+    margin-bottom: 2px;
+}
+.list_style{
+    list-style: none;
+}

@@ -1,0 +1,15 @@
+.footer_main{
+    padding-top: 2rem;
+    color: white;
+    padding-bottom: 4rem;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+}
+.footer_content{
+    color: white;
+}
+.btn_div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}

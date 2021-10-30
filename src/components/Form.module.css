@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+.border_icon{
+    border: 1px solid black;
+    width: 14%;
+    border-radius: 50%;
+    float: left;
+
+}
+.text{
+    color: white;
+}
+.icon_text{
+    float: left;
+    background-color: black;
+    width:80%;
+    color: white;
+    margin-bottom: 1rem;
+    padding-top: 12px;
+    padding-left: 15px;
+    border-radius: 10rem;
+    transition: 0.3s;
+}
+.icon_text:hover{
+    float: left;
+    background-color: #17a2b8;
+    width:80%;
+    color: black;
+    margin-bottom: 1rem;
+    padding-top: 12px;
+    padding-left: 15px;
+    border-radius: 10rem;
+}
+.information{
+    margin-left: 2rem;
+}

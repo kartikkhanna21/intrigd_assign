@@ -1,0 +1,13 @@
+.navb{
+    transition: all 0.4s;
+}
+.myknot_logo_nav{
+    width: 4rem;
+    height: 5rem;
+    }
+@media only screen and (max-width: 450px){
+    .myknot_logo_nav{
+    width: 8rem;
+    height: 4.1rem;
+    }
+}
